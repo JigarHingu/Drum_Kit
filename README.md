@@ -13,7 +13,7 @@ A simple interactive drum kit application where users can play different drum so
 
 ## Demo
 
-Try it out live: [Drum Kit Live Demo](https://example.com)
+Try it out live: [Drum Kit Live Demo](https://jigarhingu.github.io/Drum_Kit/)
 
 ## Features
 
